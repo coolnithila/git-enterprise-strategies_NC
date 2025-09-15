@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-// import './App.css'; // keep/remove depending on your project
+// import './App.css'; // uncomment if your project uses it
 
 function App() {
   return (
@@ -13,4 +13,3 @@ function App() {
 }
 
 export default App;
-
