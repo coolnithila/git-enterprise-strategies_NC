@@ -1,13 +1,16 @@
-import appLogo from './logo.svg';
-import './App.css';
+import logo from './logo.svg';
+// import './App.css'; // keep/remove depending on your project
 
 function App() {
   return (
     <div className="App">
-      <img src={appLogo} className="App-logo" alt="logo" />
-      <p>Hello from teammate branch</p>
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>Hello World! This is our team project.</p>
+      </header>
     </div>
   );
 }
 
 export default App;
+
