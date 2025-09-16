@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-// import './App.css'; // uncomment if your project uses it
+import './App.css';
 
 function App() {
   return (
